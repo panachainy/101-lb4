@@ -11,7 +11,8 @@ https://loopback.io/doc/en/lb4/todo-tutorial.html
 ---
 
 [Practice 1](docs/practice1.md)
+[Practice 2](docs/practice2.md)
 
 ## TODO
 
-- [ ] [Practice 2] ci cd
+- [x] [Practice 2] ci cd
