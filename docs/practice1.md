@@ -11,6 +11,6 @@
 - Internal APIB `https://apiblueprint.org`
 - Docker
 - Docker-Compose
-- Test with docker-compose with real database
+- Test
 - Database PostgreSQL
 - Make CRUD with `https://loopback.io/doc/en/lb4/Rest-Crud-generator.html`
